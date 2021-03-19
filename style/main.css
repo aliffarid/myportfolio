@@ -1,0 +1,36 @@
+.jumbotron {
+  background-color: #4988ec;
+  text-align: center;
+  height: 800px;
+}
+
+.text {
+  font-size: 32pt;
+  line-height: 36pt;
+  text-align: center;
+  padding-top: 15rem;
+  padding-bottom: 1rem;
+}
+
+.highlight {
+  font-weight: bolder;
+}
+
+#projects {
+  padding-top: 1rem;
+  background-color: #4988ec;
+  text-align: center;
+}
+
+#about {
+  height: 800px;
+}
+
+.container-flex {
+  padding-top: 3rem;
+}
+
+section {
+  padding-top: 6rem;
+}
+/*# sourceMappingURL=main.css.map */
